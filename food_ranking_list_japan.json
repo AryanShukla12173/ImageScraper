@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Hamamatsu gyoza",
+    "url": "https://www.tasteatlas.com/hamamatsu-gyoza",
+    "ranking": "01",
+    "position": 1
+  },
+  {
+    "name": "Negitorodon",
+    "url": "https://www.tasteatlas.com/negitorodon",
+    "ranking": "02",
+    "position": 2
+  },
+  {
+    "name": "Tonkotsu ramen",
+    "url": "https://www.tasteatlas.com/tonkotsu-ramen",
+    "ranking": "03",
+    "position": 3
+  },
+  {
+    "name": "Otoro nigiri sushi",
+    "url": "https://www.tasteatlas.com/otoro-nigiri-sushi",
+    "ranking": "04",
+    "position": 4
+  },
+  {
+    "name": "Karē",
+    "url": "https://www.tasteatlas.com/kare",
+    "ranking": "05",
+    "position": 5
+  },
+  {
+    "name": "Karaage",
+    "url": "https://www.tasteatlas.com/karaage",
+    "ranking": "06",
+    "position": 6
+  },
+  {
+    "name": "Jingisukan",
+    "url": "https://www.tasteatlas.com/jingisukan",
+    "ranking": "07",
+    "position": 7
+  },
+  {
+    "name": "Ajitsuke tamago",
+    "url": "https://www.tasteatlas.com/ajitsuke-tamago",
+    "ranking": "08",
+    "position": 8
+  },
+  {
+    "name": "Karē udon",
+    "url": "https://www.tasteatlas.com/kare-udon",
+    "ranking": "09",
+    "position": 9
+  },
+  {
+    "name": "Gyutan",
+    "url": "https://www.tasteatlas.com/gyutan",
+    "ranking": "10",
+    "position": 10
+  },
+  {
+    "name": "Atsuage",
+    "url": "https://www.tasteatlas.com/atsuage",
+    "ranking": "11",
+    "position": 11
+  },
+  {
+    "name": "Goma dare",
+    "url": "https://www.tasteatlas.com/goma-dare",
+    "ranking": "12",
+    "position": 12
+  },
+  {
+    "name": "Onigiri",
+    "url": "https://www.tasteatlas.com/onigiri",
+    "ranking": "13",
+    "position": 13
+  },
+  {
+    "name": "Yakitori",
+    "url": "https://www.tasteatlas.com/yakitori",
+    "ranking": "14",
+    "position": 14
+  },
+  {
+    "name": "Shabu-shabu",
+    "url": "https://www.tasteatlas.com/shabu-shabu",
+    "ranking": "15",
+    "position": 15
+  },
+  {
+    "name": "Chashu",
+    "url": "https://www.tasteatlas.com/chashu",
+    "ranking": "16",
+    "position": 16
+  },
+  {
+    "name": "Nikuman",
+    "url": "https://www.tasteatlas.com/nikuman",
+    "ranking": "17",
+    "position": 17
+  },
+  {
+    "name": "Japanese cheesecake",
+    "url": "https://www.tasteatlas.com/japanese-cheesecake",
+    "ranking": "18",
+    "position": 18
+  },
+  {
+    "name": "Takoyaki",
+    "url": "https://www.tasteatlas.com/takoyaki",
+    "ranking": "19",
+    "position": 19
+  },
+  {
+    "name": "Hitsumabushi",
+    "url": "https://www.tasteatlas.com/hitsumabushi",
+    "ranking": "20",
+    "position": 20
+  },
+  {
+    "name": "Ichigo daifuku",
+    "url": "https://www.tasteatlas.com/ichigo-daifuku",
+    "ranking": "21",
+    "position": 21
+  },
+  {
+    "name": "Goma-ae",
+    "url": "https://www.tasteatlas.com/goma-ae",
+    "ranking": "22",
+    "position": 22
+  },
+  {
+    "name": "Kake soba",
+    "url": "https://www.tasteatlas.com/kake-soba",
+    "ranking": "23",
+    "position": 23
+  },
+  {
+    "name": "Yakisoba",
+    "url": "https://www.tasteatlas.com/yakisoba",
+    "ranking": "24",
+    "position": 24
+  },
+  {
+    "name": "Kasutera",
+    "url": "https://www.tasteatlas.com/kasutera",
+    "ranking": "25",
+    "position": 25
+  },
+  {
+    "name": "Sunomono",
+    "url": "https://www.tasteatlas.com/sunomono",
+    "ranking": "26",
+    "position": 26
+  },
+  {
+    "name": "Monjayaki",
+    "url": "https://www.tasteatlas.com/monjayaki",
+    "ranking": "27",
+    "position": 27
+  },
+  {
+    "name": "Agedashi tofu",
+    "url": "https://www.tasteatlas.com/agedashi-tofu",
+    "ranking": "28",
+    "position": 28
+  },
+  {
+    "name": "Hiroshima-Style Okonomiyaki",
+    "url": "https://www.tasteatlas.com/hiroshima-style-okonomiyaki",
+    "ranking": "29",
+    "position": 29
+  },
+  {
+    "name": "Miso Soup",
+    "url": "https://www.tasteatlas.com/miso-soup",
+    "ranking": "30",
+    "position": 30
+  },
+  {
+    "name": "Omurice",
+    "url": "https://www.tasteatlas.com/omurice",
+    "ranking": "31",
+    "position": 31
+  },
+  {
+    "name": "Onsen tamago",
+    "url": "https://www.tasteatlas.com/onsen-tamago",
+    "ranking": "32",
+    "position": 32
+  },
+  {
+    "name": "Hōtō",
+    "url": "https://www.tasteatlas.com/hoto",
+    "ranking": "33",
+    "position": 33
+  },
+  {
+    "name": "Goma wakame",
+    "url": "https://www.tasteatlas.com/goma-wakame",
+    "ranking": "34",
+    "position": 34
+  },
+  {
+    "name": "Shogayaki",
+    "url": "https://www.tasteatlas.com/shogayaki",
+    "ranking": "35",
+    "position": 35
+  },
+  {
+    "name": "Ikayaki",
+    "url": "https://www.tasteatlas.com/ikayaki",
+    "ranking": "36",
+    "position": 36
+  },
+  {
+    "name": "Shokupan",
+    "url": "https://www.tasteatlas.com/shokupan",
+    "ranking": "37",
+    "position": 37
+  },
+  {
+    "name": "Ankimo",
+    "url": "https://www.tasteatlas.com/ankimo",
+    "ranking": "38",
+    "position": 38
+  },
+  {
+    "name": "Kakigōri",
+    "url": "https://www.tasteatlas.com/kakigori",
+    "ranking": "39",
+    "position": 39
+  },
+  {
+    "name": "Himono",
+    "url": "https://www.tasteatlas.com/himono",
+    "ranking": "40",
+    "position": 40
+  },
+  {
+    "name": "Kamameshi",
+    "url": "https://www.tasteatlas.com/kamameshi",
+    "ranking": "41",
+    "position": 41
+  },
+  {
+    "name": "Japanese custard pudding (Purin)",
+    "url": "https://www.tasteatlas.com/purin",
+    "ranking": "42",
+    "position": 42
+  },
+  {
+    "name": "Yaki imo",
+    "url": "https://www.tasteatlas.com/yaki-imo",
+    "ranking": "43",
+    "position": 43
+  },
+  {
+    "name": "Hiyayakko",
+    "url": "https://www.tasteatlas.com/hiyayakko",
+    "ranking": "44",
+    "position": 44
+  },
+  {
+    "name": "Hayashi Rice",
+    "url": "https://www.tasteatlas.com/hayashi-rice",
+    "ranking": "45",
+    "position": 45
+  },
+  {
+    "name": "Aburaage",
+    "url": "https://www.tasteatlas.com/aburaage",
+    "ranking": "46",
+    "position": 46
+  },
+  {
+    "name": "Tororo",
+    "url": "https://www.tasteatlas.com/tororo",
+    "ranking": "47",
+    "position": 47
+  },
+  {
+    "name": "Tamago kake gohan",
+    "url": "https://www.tasteatlas.com/tamago-kake-gohan",
+    "ranking": "48",
+    "position": 48
+  },
+  {
+    "name": "Melonpan",
+    "url": "https://www.tasteatlas.com/melonpan",
+    "ranking": "49",
+    "position": 49
+  },
+  {
+    "name": "Chahan",
+    "url": "https://www.tasteatlas.com/chahan",
+    "ranking": "50",
+    "position": 50
+  },
+  {
+    "name": "Tamago sando",
+    "url": "https://www.tasteatlas.com/tamago-sando",
+    "ranking": "51",
+    "position": 51
+  },
+  {
+    "name": "Chikuwa",
+    "url": "https://www.tasteatlas.com/chikuwa",
+    "ranking": "52",
+    "position": 52
+  },
+  {
+    "name": "Ohitashi",
+    "url": "https://www.tasteatlas.com/ohitashi",
+    "ranking": "53",
+    "position": 53
+  },
+  {
+    "name": "Nasu dengaku",
+    "url": "https://www.tasteatlas.com/nasu-dengaku",
+    "ranking": "54",
+    "position": 54
+  },
+  {
+    "name": "Mushi pan",
+    "url": "https://www.tasteatlas.com/mushi-pan",
+    "ranking": "55",
+    "position": 55
+  },
+  {
+    "name": "Yakizakana",
+    "url": "https://www.tasteatlas.com/yakizakana",
+    "ranking": "56",
+    "position": 56
+  },
+  {
+    "name": "Yakisoba pan",
+    "url": "https://www.tasteatlas.com/yakisoba-pan",
+    "ranking": "57",
+    "position": 57
+  },
+  {
+    "name": "Japanese Potato Salad",
+    "url": "https://www.tasteatlas.com/japanese-potato-salad",
+    "ranking": "58",
+    "position": 58
+  },
+  {
+    "name": "Cup Noodles",
+    "url": "https://www.tasteatlas.com/cup-noodles",
+    "ranking": "59",
+    "position": 59
+  },
+  {
+    "name": "Basashi",
+    "url": "https://www.tasteatlas.com/basashi",
+    "ranking": "60",
+    "position": 60
+  },
+  {
+    "name": "Takoraisu",
+    "url": "https://www.tasteatlas.com/takoraisu",
+    "ranking": "61",
+    "position": 61
+  },
+  {
+    "name": "Mooncake (Geppei)",
+    "url": "https://www.tasteatlas.com/geppei",
+    "ranking": "62",
+    "position": 62
+  },
+  {
+    "name": "Kayu",
+    "url": "https://www.tasteatlas.com/kayu",
+    "ranking": "63",
+    "position": 63
+  },
+  {
+    "name": "Okoshi",
+    "url": "https://www.tasteatlas.com/okoshi",
+    "ranking": "64",
+    "position": 64
+  },
+  {
+    "name": "Goya chanpuru",
+    "url": "https://www.tasteatlas.com/goya-chanpuru",
+    "ranking": "65",
+    "position": 65
+  },
+  {
+    "name": "Naporitan",
+    "url": "https://www.tasteatlas.com/naporitan",
+    "ranking": "66",
+    "position": 66
+  },
+  {
+    "name": "Rice Burger",
+    "url": "https://www.tasteatlas.com/rice-burger",
+    "ranking": "67",
+    "position": 67
+  },
+  {
+    "name": "Matcha parfait (Matcha pafe)",
+    "url": "https://www.tasteatlas.com/matcha-pafe",
+    "ranking": "68",
+    "position": 68
+  },
+  {
+    "name": "Karukan",
+    "url": "https://www.tasteatlas.com/karukan",
+    "ranking": "69",
+    "position": 69
+  },
+  {
+    "name": "Rui-be",
+    "url": "https://www.tasteatlas.com/rui-be",
+    "ranking": "70",
+    "position": 70
+  },
+  {
+    "name": "Tofuyo",
+    "url": "https://www.tasteatlas.com/tofuyo",
+    "ranking": "71",
+    "position": 71
+  },
+  {
+    "name": "Sakura",
+    "url": "https://www.tasteatlas.com/sakura",
+    "ranking": "72",
+    "position": 72
+  },
+  {
+    "name": "Teba shichimi",
+    "url": "https://www.tasteatlas.com/teba-shichimi",
+    "ranking": "73",
+    "position": 73
+  },
+  {
+    "name": "Mori no",
+    "url": "https://www.tasteatlas.com/mori-no",
+    "ranking": "74",
+    "position": 74
+  },
+  {
+    "name": "Tai-meshi",
+    "url": "https://www.tasteatlas.com/tai-meshi",
+    "ranking": "75",
+    "position": 75
+  },
+  {
+    "name": "Shutō",
+    "url": "https://www.tasteatlas.com/shuto",
+    "ranking": "76",
+    "position": 76
+  },
+  {
+    "name": "Morokyu",
+    "url": "https://www.tasteatlas.com/morokyu",
+    "ranking": "77",
+    "position": 77
+  },
+  {
+    "name": "Kaiyaki-misu",
+    "url": "https://www.tasteatlas.com/kaiyaki-misu",
+    "ranking": "78",
+    "position": 78
+  },
+  {
+    "name": "Hotate Salad",
+    "url": "https://www.tasteatlas.com/hotate-salad",
+    "ranking": "79",
+    "position": 79
+  },
+  {
+    "name": "Buri daikon",
+    "url": "https://www.tasteatlas.com/buri-daikon",
+    "ranking": "80",
+    "position": 80
+  },
+  {
+    "name": "Niboshi dashi",
+    "url": "https://www.tasteatlas.com/niboshi-dashi",
+    "ranking": "81",
+    "position": 81
+  },
+  {
+    "name": "Agebitashi",
+    "url": "https://www.tasteatlas.com/agebitashi",
+    "ranking": "82",
+    "position": 82
+  },
+  {
+    "name": "Asari no sakemushi",
+    "url": "https://www.tasteatlas.com/asari-no-sakemushi",
+    "ranking": "83",
+    "position": 83
+  },
+  {
+    "name": "Imoni",
+    "url": "https://www.tasteatlas.com/imoni",
+    "ranking": "84",
+    "position": 84
+  },
+  {
+    "name": "Hanetsuki",
+    "url": "https://www.tasteatlas.com/hanetsuki",
+    "ranking": "85",
+    "position": 85
+  },
+  {
+    "name": "Rafute",
+    "url": "https://www.tasteatlas.com/rafute",
+    "ranking": "86",
+    "position": 86
+  },
+  {
+    "name": "Tarako Spaghetti",
+    "url": "https://www.tasteatlas.com/tarako-spaghetti",
+    "ranking": "87",
+    "position": 87
+  },
+  {
+    "name": "Tsukejiru",
+    "url": "https://www.tasteatlas.com/tsukejiru",
+    "ranking": "88",
+    "position": 88
+  },
+  {
+    "name": "Kishimen",
+    "url": "https://www.tasteatlas.com/kishimen",
+    "ranking": "89",
+    "position": 89
+  },
+  {
+    "name": "Tofu misozuke",
+    "url": "https://www.tasteatlas.com/tofu-misozuke",
+    "ranking": "90",
+    "position": 90
+  },
+  {
+    "name": "Salmon Chazuke (Sake chazuke)",
+    "url": "https://www.tasteatlas.com/sake-chazuke",
+    "ranking": "91",
+    "position": 91
+  },
+  {
+    "name": "Curry Doria",
+    "url": "https://www.tasteatlas.com/curry-doria",
+    "ranking": "92",
+    "position": 92
+  },
+  {
+    "name": "Tai zuke don",
+    "url": "https://www.tasteatlas.com/tai-zuke-don",
+    "ranking": "93",
+    "position": 93
+  },
+  {
+    "name": "Tsukemono",
+    "url": "https://www.tasteatlas.com/tsukemono-1",
+    "ranking": "94",
+    "position": 94
+  },
+  {
+    "name": "Takikomi gohan",
+    "url": "https://www.tasteatlas.com/takikomi-gohan",
+    "ranking": "95",
+    "position": 95
+  },
+  {
+    "name": "Horenso no goma-ae",
+    "url": "https://www.tasteatlas.com/horenso-no-goma-ae",
+    "ranking": "96",
+    "position": 96
+  },
+  {
+    "name": "Butajiru",
+    "url": "https://www.tasteatlas.com/butajiru",
+    "ranking": "97",
+    "position": 97
+  },
+  {
+    "name": "Kenpi",
+    "url": "https://www.tasteatlas.com/kenpi",
+    "ranking": "98",
+    "position": 98
+  },
+  {
+    "name": "Black Miso Cod",
+    "url": "https://www.tasteatlas.com/black-miso-cod",
+    "ranking": "99",
+    "position": 99
+  },
+  {
+    "name": "Sumashijiru",
+    "url": "https://www.tasteatlas.com/sumashijiru",
+    "ranking": "100",
+    "position": 100
+  }
+]

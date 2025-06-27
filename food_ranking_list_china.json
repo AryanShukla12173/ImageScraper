@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Zhēngjiǎo",
+    "url": "https://www.tasteatlas.com/zhengjiao",
+    "ranking": "01",
+    "position": 1
+  },
+  {
+    "name": "Peking duck (Beijing kao ya)",
+    "url": "https://www.tasteatlas.com/peking-duck",
+    "ranking": "02",
+    "position": 2
+  },
+  {
+    "name": "Dan Dan noodles",
+    "url": "https://www.tasteatlas.com/dan-dan-noodles",
+    "ranking": "03",
+    "position": 3
+  },
+  {
+    "name": "Jianbing",
+    "url": "https://www.tasteatlas.com/jianbing",
+    "ranking": "04",
+    "position": 4
+  },
+  {
+    "name": "Biang Biang noodles",
+    "url": "https://www.tasteatlas.com/biangbiang-noodles",
+    "ranking": "05",
+    "position": 5
+  },
+  {
+    "name": "Beef chow fun (Chow hor fun)",
+    "url": "https://www.tasteatlas.com/beef-chow-fun",
+    "ranking": "06",
+    "position": 6
+  },
+  {
+    "name": "Stir-fry shrimps (You bao xia)",
+    "url": "https://www.tasteatlas.com/stirfry-shrimps",
+    "ranking": "07",
+    "position": 7
+  },
+  {
+    "name": "Xinjiang lamb skewers",
+    "url": "https://www.tasteatlas.com/xinjiang-lamb-skewers",
+    "ranking": "08",
+    "position": 8
+  },
+  {
+    "name": "Yangzhou fried rice (Yang zhou chao fan)",
+    "url": "https://www.tasteatlas.com/yangzhou-fried-rice",
+    "ranking": "09",
+    "position": 9
+  },
+  {
+    "name": "Twice-cooked pork (Hui guo rou)",
+    "url": "https://www.tasteatlas.com/twice-cooked-pork",
+    "ranking": "10",
+    "position": 10
+  },
+  {
+    "name": "Cold skin noodles (Liangpi)",
+    "url": "https://www.tasteatlas.com/liangpi",
+    "ranking": "11",
+    "position": 11
+  },
+  {
+    "name": "Chinese BBQ pork (Char siu)",
+    "url": "https://www.tasteatlas.com/char-siu",
+    "ranking": "12",
+    "position": 12
+  },
+  {
+    "name": "Crispy fried chicken (Zhaziji)",
+    "url": "https://www.tasteatlas.com/crispy-fried-chicken",
+    "ranking": "13",
+    "position": 13
+  },
+  {
+    "name": "Sweet and sour spare ribs (Tang cu pai gu)",
+    "url": "https://www.tasteatlas.com/sweet-and-sour-spare-ribs",
+    "ranking": "14",
+    "position": 14
+  },
+  {
+    "name": "Sichuan hot pot",
+    "url": "https://www.tasteatlas.com/sichuan-hotpot",
+    "ranking": "15",
+    "position": 15
+  },
+  {
+    "name": "Dongpo pork (Dongpo rou)",
+    "url": "https://www.tasteatlas.com/dongpo-rou",
+    "ranking": "16",
+    "position": 16
+  },
+  {
+    "name": "Latiaozi",
+    "url": "https://www.tasteatlas.com/latiaozi",
+    "ranking": "17",
+    "position": 17
+  },
+  {
+    "name": "Chongqing chicken (Laziji)",
+    "url": "https://www.tasteatlas.com/chongqing-chicken",
+    "ranking": "18",
+    "position": 18
+  },
+  {
+    "name": "Salt-and-pepper squid (Jiao yan you yu)",
+    "url": "https://www.tasteatlas.com/jiao-yan-you-yu",
+    "ranking": "19",
+    "position": 19
+  },
+  {
+    "name": "Wonton",
+    "url": "https://www.tasteatlas.com/wonton",
+    "ranking": "20",
+    "position": 20
+  },
+  {
+    "name": "Shabu-shabu",
+    "url": "https://www.tasteatlas.com/shabu-shabu-china",
+    "ranking": "21",
+    "position": 21
+  },
+  {
+    "name": "Mapo doufu",
+    "url": "https://www.tasteatlas.com/chen-mapo-doufu",
+    "ranking": "22",
+    "position": 22
+  },
+  {
+    "name": "Braised pork belly (Hong shao rou)",
+    "url": "https://www.tasteatlas.com/hong-shao-rou",
+    "ranking": "23",
+    "position": 23
+  },
+  {
+    "name": "Scallion pancake (Cong you bing)",
+    "url": "https://www.tasteatlas.com/scallion-pancake",
+    "ranking": "24",
+    "position": 24
+  },
+  {
+    "name": "Egg waffle",
+    "url": "https://www.tasteatlas.com/egg-waffle",
+    "ranking": "25",
+    "position": 25
+  },
+  {
+    "name": "Momo",
+    "url": "https://www.tasteatlas.com/momo-dumplings-tibet",
+    "ranking": "26",
+    "position": 26
+  },
+  {
+    "name": "Smacked cucumber (Pai huang gua)",
+    "url": "https://www.tasteatlas.com/smacked-cucumber",
+    "ranking": "27",
+    "position": 27
+  },
+  {
+    "name": "Soy egg (Lujidan)",
+    "url": "https://www.tasteatlas.com/soy-egg",
+    "ranking": "28",
+    "position": 28
+  },
+  {
+    "name": "Peking shredded pork (Jing jiang rou si)",
+    "url": "https://www.tasteatlas.com/jing-jiang-rou-si",
+    "ranking": "29",
+    "position": 29
+  },
+  {
+    "name": "Kung pao chicken (Gong bao)",
+    "url": "https://www.tasteatlas.com/kung-pao-chicken",
+    "ranking": "30",
+    "position": 30
+  },
+  {
+    "name": "Orange chicken (Chen pi ji)",
+    "url": "https://www.tasteatlas.com/orange-chicken",
+    "ranking": "31",
+    "position": 31
+  },
+  {
+    "name": "Zhajiangmian",
+    "url": "https://www.tasteatlas.com/zhajiangmian",
+    "ranking": "32",
+    "position": 32
+  },
+  {
+    "name": "Lion's head (Shizitou)",
+    "url": "https://www.tasteatlas.com/lions-head",
+    "ranking": "33",
+    "position": 33
+  },
+  {
+    "name": "Hot dry noodles (Reganmian)",
+    "url": "https://www.tasteatlas.com/hot-dry-noodles",
+    "ranking": "34",
+    "position": 34
+  },
+  {
+    "name": "Oyster omelette (Háo jiān)",
+    "url": "https://www.tasteatlas.com/oyster-omelette",
+    "ranking": "35",
+    "position": 35
+  },
+  {
+    "name": "Ants climbing a tree (Ma yi shang shu)",
+    "url": "https://www.tasteatlas.com/ants-climbing-a-tree",
+    "ranking": "36",
+    "position": 36
+  },
+  {
+    "name": "Serradura",
+    "url": "https://www.tasteatlas.com/serradura-macau",
+    "ranking": "37",
+    "position": 37
+  },
+  {
+    "name": "Pepper bun (Hu jiao bing)",
+    "url": "https://www.tasteatlas.com/hujiao-bing",
+    "ranking": "38",
+    "position": 38
+  },
+  {
+    "name": "Chinese hamburger (Rou jia mo)",
+    "url": "https://www.tasteatlas.com/rou-jia-mo",
+    "ranking": "39",
+    "position": 39
+  },
+  {
+    "name": "Tomato and egg stir-fry (Fan qie chao dan)",
+    "url": "https://www.tasteatlas.com/fan-qie-chao-dan",
+    "ranking": "40",
+    "position": 40
+  },
+  {
+    "name": "Lemon chicken (Ling moong gai)",
+    "url": "https://www.tasteatlas.com/ling-moong-gai",
+    "ranking": "41",
+    "position": 41
+  },
+  {
+    "name": "Shaobing",
+    "url": "https://www.tasteatlas.com/bing",
+    "ranking": "42",
+    "position": 42
+  },
+  {
+    "name": "General Tso's chicken (Zuǒ Zōngtáng jī)",
+    "url": "https://www.tasteatlas.com/general-tsos-chicken",
+    "ranking": "43",
+    "position": 43
+  },
+  {
+    "name": "Hot and sour soup (Suān là tāng)",
+    "url": "https://www.tasteatlas.com/hot-and-sour-soup",
+    "ranking": "44",
+    "position": 44
+  },
+  {
+    "name": "Wonton noodles (Wàhn tān mihn)",
+    "url": "https://www.tasteatlas.com/wonton-noodles",
+    "ranking": "45",
+    "position": 45
+  },
+  {
+    "name": "Zongzi",
+    "url": "https://www.tasteatlas.com/zongzi",
+    "ranking": "46",
+    "position": 46
+  },
+  {
+    "name": "Claypot rice (Claypot Rice)",
+    "url": "https://www.tasteatlas.com/claypot-rice-hong-kong",
+    "ranking": "47",
+    "position": 47
+  },
+  {
+    "name": "Shacha sauce (Shāchá jiàng)",
+    "url": "https://www.tasteatlas.com/shacha-sauce",
+    "ranking": "48",
+    "position": 48
+  },
+  {
+    "name": "Chow mein",
+    "url": "https://www.tasteatlas.com/chow-mein",
+    "ranking": "49",
+    "position": 49
+  },
+  {
+    "name": "Lo mein",
+    "url": "https://www.tasteatlas.com/lo-mein",
+    "ranking": "50",
+    "position": 50
+  },
+  {
+    "name": "Fish ball (Yú wán)",
+    "url": "https://www.tasteatlas.com/fish-ball",
+    "ranking": "51",
+    "position": 51
+  },
+  {
+    "name": "Sweet and sour pork (Gu lao rou)",
+    "url": "https://www.tasteatlas.com/sweet-and-sour-pork",
+    "ranking": "52",
+    "position": 52
+  },
+  {
+    "name": "Pepper steak (Qīngjiāo ròusī)",
+    "url": "https://www.tasteatlas.com/pepper-steak",
+    "ranking": "53",
+    "position": 53
+  },
+  {
+    "name": "Winter melon soup (Dong gua tang)",
+    "url": "https://www.tasteatlas.com/winter-melon-soup",
+    "ranking": "54",
+    "position": 54
+  },
+  {
+    "name": "Tea egg (Cháyèdàn)",
+    "url": "https://www.tasteatlas.com/tea-egg",
+    "ranking": "55",
+    "position": 55
+  },
+  {
+    "name": "Plum sauce (Suān méi jiàng)",
+    "url": "https://www.tasteatlas.com/plum-sauce",
+    "ranking": "56",
+    "position": 56
+  },
+  {
+    "name": "Phoenix-tail shrimp (Fèng wěi xiā)",
+    "url": "https://www.tasteatlas.com/phoenix-tail-shrimp",
+    "ranking": "57",
+    "position": 57
+  },
+  {
+    "name": "Mango pomelo sago",
+    "url": "https://www.tasteatlas.com/mango-pomelo-sago",
+    "ranking": "58",
+    "position": 58
+  },
+  {
+    "name": "Honey-soy braised chicken wings (Mut jup mun gai yik)",
+    "url": "https://www.tasteatlas.com/mut-jup-mun-gai-yik",
+    "ranking": "59",
+    "position": 59
+  },
+  {
+    "name": "Egg rolls (Dan gun)",
+    "url": "https://www.tasteatlas.com/egg-roll",
+    "ranking": "60",
+    "position": 60
+  },
+  {
+    "name": "Tang yuan",
+    "url": "https://www.tasteatlas.com/tangyuan",
+    "ranking": "61",
+    "position": 61
+  },
+  {
+    "name": "Roast squab (Zha ru ge)",
+    "url": "https://www.tasteatlas.com/roast-squab",
+    "ranking": "62",
+    "position": 62
+  },
+  {
+    "name": "Chinese meat pie (Xianbing)",
+    "url": "https://www.tasteatlas.com/xianbing",
+    "ranking": "63",
+    "position": 63
+  },
+  {
+    "name": "Baobing",
+    "url": "https://www.tasteatlas.com/baobing",
+    "ranking": "64",
+    "position": 64
+  },
+  {
+    "name": "Meat floss (Rousong)",
+    "url": "https://www.tasteatlas.com/rousong",
+    "ranking": "65",
+    "position": 65
+  },
+  {
+    "name": "Meat floss (Rousong)",
+    "url": "https://www.tasteatlas.com/rousong-1",
+    "ranking": "66",
+    "position": 66
+  },
+  {
+    "name": "Beef ball (Niúwán)",
+    "url": "https://www.tasteatlas.com/beef-ball",
+    "ranking": "67",
+    "position": 67
+  },
+  {
+    "name": "Crossing-the-bridge noodles (Guo qiao mi xian)",
+    "url": "https://www.tasteatlas.com/over-bridge-rice-noodles",
+    "ranking": "68",
+    "position": 68
+  },
+  {
+    "name": "Sachima",
+    "url": "https://www.tasteatlas.com/sachima",
+    "ranking": "69",
+    "position": 69
+  },
+  {
+    "name": "Pork ball (Gòng wán)",
+    "url": "https://www.tasteatlas.com/pork-ball",
+    "ranking": "70",
+    "position": 70
+  },
+  {
+    "name": "Egg drop soup (Dan hua tang)",
+    "url": "https://www.tasteatlas.com/egg-drop-soup",
+    "ranking": "71",
+    "position": 71
+  },
+  {
+    "name": "Moo shu pork (Mu xu rou)",
+    "url": "https://www.tasteatlas.com/moo-shu-pork",
+    "ranking": "72",
+    "position": 72
+  },
+  {
+    "name": "Fresh spring roll (Popiah)",
+    "url": "https://www.tasteatlas.com/popiah",
+    "ranking": "73",
+    "position": 73
+  },
+  {
+    "name": "Tomato egg drop soup (Fan qie dan zang)",
+    "url": "https://www.tasteatlas.com/tomato-and-egg-soup",
+    "ranking": "74",
+    "position": 74
+  },
+  {
+    "name": "Nuomici",
+    "url": "https://www.tasteatlas.com/nuomici",
+    "ranking": "75",
+    "position": 75
+  },
+  {
+    "name": "Buddha's delight (Luo han zhai)",
+    "url": "https://www.tasteatlas.com/buddhas-delight",
+    "ranking": "76",
+    "position": 76
+  },
+  {
+    "name": "Galinha à Africana",
+    "url": "https://www.tasteatlas.com/galinha-a-africana",
+    "ranking": "77",
+    "position": 77
+  },
+  {
+    "name": "Beef bun (Niu rou bao)",
+    "url": "https://www.tasteatlas.com/beef-bun",
+    "ranking": "78",
+    "position": 78
+  },
+  {
+    "name": "Hokkien fried rice (Fuk gin caau faan)",
+    "url": "https://www.tasteatlas.com/hokkien-fried-rice",
+    "ranking": "79",
+    "position": 79
+  },
+  {
+    "name": "Chinese crullers (Youtiao)",
+    "url": "https://www.tasteatlas.com/youtiao",
+    "ranking": "80",
+    "position": 80
+  },
+  {
+    "name": "Mung bean jelly noodles (Liang fen)",
+    "url": "https://www.tasteatlas.com/liangfen",
+    "ranking": "81",
+    "position": 81
+  },
+  {
+    "name": "Snow fungus soup (Yin er tang)",
+    "url": "https://www.tasteatlas.com/snow-fungus-soup",
+    "ranking": "82",
+    "position": 82
+  },
+  {
+    "name": "Mandarin pancakes (Bó bǐng)",
+    "url": "https://www.tasteatlas.com/mandarin-pancakes",
+    "ranking": "83",
+    "position": 83
+  },
+  {
+    "name": "Piggy bun (Zyu zai baau)",
+    "url": "https://www.tasteatlas.com/piggy-bun",
+    "ranking": "84",
+    "position": 84
+  },
+  {
+    "name": "Macau almond cookies (Aomen xing ren bing)",
+    "url": "https://www.tasteatlas.com/macau-almond-cookies",
+    "ranking": "85",
+    "position": 85
+  },
+  {
+    "name": "Century egg (Pi dan)",
+    "url": "https://www.tasteatlas.com/century-egg",
+    "ranking": "86",
+    "position": 86
+  },
+  {
+    "name": "Yusheng",
+    "url": "https://www.tasteatlas.com/yusheng",
+    "ranking": "87",
+    "position": 87
+  },
+  {
+    "name": "Hot pepper soup (Hulatang)",
+    "url": "https://www.tasteatlas.com/hulatang",
+    "ranking": "88",
+    "position": 88
+  },
+  {
+    "name": "Cream bun",
+    "url": "https://www.tasteatlas.com/cream-bun",
+    "ranking": "89",
+    "position": 89
+  },
+  {
+    "name": "Stinky tofu (Chou doufu)",
+    "url": "https://www.tasteatlas.com/chou-doufu",
+    "ranking": "90",
+    "position": 90
+  },
+  {
+    "name": "Shanghai hairy crab (Shanghai maoxie)",
+    "url": "https://www.tasteatlas.com/shanghai-hairy-crab",
+    "ranking": "91",
+    "position": 91
+  },
+  {
+    "name": "Bird's nest soup (Yan Wo)",
+    "url": "https://www.tasteatlas.com/birds-nest-soup",
+    "ranking": "92",
+    "position": 92
+  },
+  {
+    "name": "Longevity peach buns (Shoutao bao)",
+    "url": "https://www.tasteatlas.com/longevity-peach",
+    "ranking": "93",
+    "position": 93
+  },
+  {
+    "name": "Lap cheong",
+    "url": "https://www.tasteatlas.com/lap-cheong",
+    "ranking": "94",
+    "position": 94
+  },
+  {
+    "name": "Snail noodle soup (Luosifen)",
+    "url": "https://www.tasteatlas.com/luosifen",
+    "ranking": "95",
+    "position": 95
+  },
+  {
+    "name": "Shark fin soup (Yu chi geng)",
+    "url": "https://www.tasteatlas.com/shark-fin-soup",
+    "ranking": "96",
+    "position": 96
+  },
+  {
+    "name": "Cantonese mooncake (Danhuang lianrong yuebing)",
+    "url": "https://www.tasteatlas.com/danhuang-lianrong-yuebing",
+    "ranking": "97",
+    "position": 97
+  },
+  {
+    "name": "Moo goo gai pan",
+    "url": "https://www.tasteatlas.com/moo-goo-gai-pan",
+    "ranking": "98",
+    "position": 98
+  },
+  {
+    "name": "Duck's head (Ya tou)",
+    "url": "https://www.tasteatlas.com/ducks-head",
+    "ranking": "99",
+    "position": 99
+  },
+  {
+    "name": "Jinhua ham (Jinhua huotui)",
+    "url": "https://www.tasteatlas.com/jinhua-ham",
+    "ranking": "100",
+    "position": 100
+  }
+]

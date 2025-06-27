@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Picanha",
+    "url": "https://www.tasteatlas.com/picanha",
+    "ranking": "01",
+    "position": 1
+  },
+  {
+    "name": "Bife a Parmegiana",
+    "url": "https://www.tasteatlas.com/bife-a-parmegiana",
+    "ranking": "02",
+    "position": 2
+  },
+  {
+    "name": "Pão de queijo",
+    "url": "https://www.tasteatlas.com/pao-de-queijo",
+    "ranking": "03",
+    "position": 3
+  },
+  {
+    "name": "Filet mignon",
+    "url": "https://www.tasteatlas.com/filet-mignon-brazil",
+    "ranking": "04",
+    "position": 4
+  },
+  {
+    "name": "Costela",
+    "url": "https://www.tasteatlas.com/costela",
+    "ranking": "05",
+    "position": 5
+  },
+  {
+    "name": "Contrafilé",
+    "url": "https://www.tasteatlas.com/contrafile",
+    "ranking": "06",
+    "position": 6
+  },
+  {
+    "name": "Tacacá",
+    "url": "https://www.tasteatlas.com/tacaca",
+    "ranking": "07",
+    "position": 7
+  },
+  {
+    "name": "Pudim de leite condensado",
+    "url": "https://www.tasteatlas.com/pudim-de-leite-condensado",
+    "ranking": "08",
+    "position": 8
+  },
+  {
+    "name": "Coxinha",
+    "url": "https://www.tasteatlas.com/coxinha",
+    "ranking": "09",
+    "position": 9
+  },
+  {
+    "name": "Escondidinho",
+    "url": "https://www.tasteatlas.com/escondidinho",
+    "ranking": "10",
+    "position": 10
+  },
+  {
+    "name": "Pastel",
+    "url": "https://www.tasteatlas.com/pastel",
+    "ranking": "11",
+    "position": 11
+  },
+  {
+    "name": "Mousse de maracujá",
+    "url": "https://www.tasteatlas.com/mousse-de-maracuja",
+    "ranking": "12",
+    "position": 12
+  },
+  {
+    "name": "Feijão tropeiro",
+    "url": "https://www.tasteatlas.com/feijao-tropeiro",
+    "ranking": "13",
+    "position": 13
+  },
+  {
+    "name": "Bobó de camarão",
+    "url": "https://www.tasteatlas.com/bobo-de-camarao",
+    "ranking": "14",
+    "position": 14
+  },
+  {
+    "name": "Vaca atolada",
+    "url": "https://www.tasteatlas.com/vaca-atolada",
+    "ranking": "15",
+    "position": 15
+  },
+  {
+    "name": "Queijo de Coalho",
+    "url": "https://www.tasteatlas.com/queijo-de-coalho",
+    "ranking": "16",
+    "position": 16
+  },
+  {
+    "name": "Pavê",
+    "url": "https://www.tasteatlas.com/pave",
+    "ranking": "17",
+    "position": 17
+  },
+  {
+    "name": "Moqueca Baiana",
+    "url": "https://www.tasteatlas.com/moqueca-baiana",
+    "ranking": "18",
+    "position": 18
+  },
+  {
+    "name": "Canastra",
+    "url": "https://www.tasteatlas.com/canastra",
+    "ranking": "19",
+    "position": 19
+  },
+  {
+    "name": "Feijoada",
+    "url": "https://www.tasteatlas.com/feijoada",
+    "ranking": "20",
+    "position": 20
+  },
+  {
+    "name": "Doce de leite",
+    "url": "https://www.tasteatlas.com/doce-de-leite",
+    "ranking": "21",
+    "position": 21
+  },
+  {
+    "name": "Brigadeiro",
+    "url": "https://www.tasteatlas.com/brigadeiro",
+    "ranking": "22",
+    "position": 22
+  },
+  {
+    "name": "Queijo Minas",
+    "url": "https://www.tasteatlas.com/queijo-minas",
+    "ranking": "23",
+    "position": 23
+  },
+  {
+    "name": "Baião-de-dois",
+    "url": "https://www.tasteatlas.com/baiao-de-dois",
+    "ranking": "24",
+    "position": 24
+  },
+  {
+    "name": "Vatapá",
+    "url": "https://www.tasteatlas.com/vatapa",
+    "ranking": "25",
+    "position": 25
+  },
+  {
+    "name": "Arrumadinho",
+    "url": "https://www.tasteatlas.com/arrumadinho",
+    "ranking": "26",
+    "position": 26
+  },
+  {
+    "name": "Bombocado",
+    "url": "https://www.tasteatlas.com/bombocado",
+    "ranking": "27",
+    "position": 27
+  },
+  {
+    "name": "Tutu de feijão",
+    "url": "https://www.tasteatlas.com/tutu-de-feijao",
+    "ranking": "28",
+    "position": 28
+  },
+  {
+    "name": "Bolo de brigadeiro",
+    "url": "https://www.tasteatlas.com/bolo-de-brigadeiro",
+    "ranking": "29",
+    "position": 29
+  },
+  {
+    "name": "Beijinho",
+    "url": "https://www.tasteatlas.com/beijinho",
+    "ranking": "30",
+    "position": 30
+  },
+  {
+    "name": "Bolo de rolo",
+    "url": "https://www.tasteatlas.com/bolo-de-rolo",
+    "ranking": "31",
+    "position": 31
+  },
+  {
+    "name": "Arroz carreteiro",
+    "url": "https://www.tasteatlas.com/arroz-carreteiro",
+    "ranking": "32",
+    "position": 32
+  },
+  {
+    "name": "Cartola",
+    "url": "https://www.tasteatlas.com/cartola",
+    "ranking": "33",
+    "position": 33
+  },
+  {
+    "name": "Filé de costela",
+    "url": "https://www.tasteatlas.com/file-de-costela",
+    "ranking": "34",
+    "position": 34
+  },
+  {
+    "name": "Farofa",
+    "url": "https://www.tasteatlas.com/farofa",
+    "ranking": "35",
+    "position": 35
+  },
+  {
+    "name": "Carne de sol",
+    "url": "https://www.tasteatlas.com/carne-de-sol",
+    "ranking": "36",
+    "position": 36
+  },
+  {
+    "name": "Acarajé",
+    "url": "https://www.tasteatlas.com/acaraje",
+    "ranking": "37",
+    "position": 37
+  },
+  {
+    "name": "Pirão",
+    "url": "https://www.tasteatlas.com/pirao",
+    "ranking": "38",
+    "position": 38
+  },
+  {
+    "name": "Açaí na tigela",
+    "url": "https://www.tasteatlas.com/acai-na-tigela",
+    "ranking": "39",
+    "position": 39
+  },
+  {
+    "name": "Estrogonofe",
+    "url": "https://www.tasteatlas.com/estrogonofe",
+    "ranking": "40",
+    "position": 40
+  },
+  {
+    "name": "Cachorro quente",
+    "url": "https://www.tasteatlas.com/cachorro-quente",
+    "ranking": "41",
+    "position": 41
+  },
+  {
+    "name": "Romeu e Julieta",
+    "url": "https://www.tasteatlas.com/romeu-e-julieta",
+    "ranking": "42",
+    "position": 42
+  },
+  {
+    "name": "Casquinhas de siri",
+    "url": "https://www.tasteatlas.com/casquinhas-de-siri",
+    "ranking": "43",
+    "position": 43
+  },
+  {
+    "name": "Cuscuz nordestino",
+    "url": "https://www.tasteatlas.com/cuscuz-nordestino",
+    "ranking": "44",
+    "position": 44
+  },
+  {
+    "name": "Beirute",
+    "url": "https://www.tasteatlas.com/beirute",
+    "ranking": "45",
+    "position": 45
+  },
+  {
+    "name": "Abará",
+    "url": "https://www.tasteatlas.com/abara",
+    "ranking": "46",
+    "position": 46
+  },
+  {
+    "name": "Tambaqui na brasa",
+    "url": "https://www.tasteatlas.com/tambaqui-na-brasa",
+    "ranking": "47",
+    "position": 47
+  },
+  {
+    "name": "Filé Oswaldo Aranha",
+    "url": "https://www.tasteatlas.com/file-oswaldo-aranha",
+    "ranking": "48",
+    "position": 48
+  },
+  {
+    "name": "Rabanada",
+    "url": "https://www.tasteatlas.com/rabanada-brazil",
+    "ranking": "49",
+    "position": 49
+  },
+  {
+    "name": "Bolinhos de bacalhau",
+    "url": "https://www.tasteatlas.com/bolinhos-de-bacalhau-brazil",
+    "ranking": "50",
+    "position": 50
+  },
+  {
+    "name": "Quindim",
+    "url": "https://www.tasteatlas.com/quindim",
+    "ranking": "51",
+    "position": 51
+  },
+  {
+    "name": "Galinhada",
+    "url": "https://www.tasteatlas.com/galinhada",
+    "ranking": "52",
+    "position": 52
+  },
+  {
+    "name": "Bolinhos de chuva",
+    "url": "https://www.tasteatlas.com/bolinhos-de-chuva-brazil",
+    "ranking": "53",
+    "position": 53
+  },
+  {
+    "name": "Bauru",
+    "url": "https://www.tasteatlas.com/bauru",
+    "ranking": "54",
+    "position": 54
+  },
+  {
+    "name": "Carne de onça",
+    "url": "https://www.tasteatlas.com/carne-de-onca",
+    "ranking": "55",
+    "position": 55
+  },
+  {
+    "name": "Créme de papaya",
+    "url": "https://www.tasteatlas.com/creme-de-papaya",
+    "ranking": "56",
+    "position": 56
+  },
+  {
+    "name": "Pamonha",
+    "url": "https://www.tasteatlas.com/pamonha",
+    "ranking": "57",
+    "position": 57
+  },
+  {
+    "name": "Curau",
+    "url": "https://www.tasteatlas.com/curau",
+    "ranking": "58",
+    "position": 58
+  },
+  {
+    "name": "Barreado",
+    "url": "https://www.tasteatlas.com/barreado",
+    "ranking": "59",
+    "position": 59
+  },
+  {
+    "name": "Baba-de-moça",
+    "url": "https://www.tasteatlas.com/baba-de-moca",
+    "ranking": "60",
+    "position": 60
+  },
+  {
+    "name": "X-Tudo",
+    "url": "https://www.tasteatlas.com/x-tudo",
+    "ranking": "61",
+    "position": 61
+  },
+  {
+    "name": "Canjica",
+    "url": "https://www.tasteatlas.com/canjica",
+    "ranking": "62",
+    "position": 62
+  },
+  {
+    "name": "Caruru",
+    "url": "https://www.tasteatlas.com/caruru",
+    "ranking": "63",
+    "position": 63
+  },
+  {
+    "name": "Queijo prato",
+    "url": "https://www.tasteatlas.com/queijo-prato",
+    "ranking": "64",
+    "position": 64
+  },
+  {
+    "name": "Casadinhos",
+    "url": "https://www.tasteatlas.com/casadinhos",
+    "ranking": "65",
+    "position": 65
+  },
+  {
+    "name": "Coxão mole",
+    "url": "https://www.tasteatlas.com/coxao-mole",
+    "ranking": "66",
+    "position": 66
+  },
+  {
+    "name": "Patinho",
+    "url": "https://www.tasteatlas.com/patinho",
+    "ranking": "67",
+    "position": 67
+  },
+  {
+    "name": "Biscoito de polvilho",
+    "url": "https://www.tasteatlas.com/biscoito-de-polvilho",
+    "ranking": "68",
+    "position": 68
+  },
+  {
+    "name": "Cajuzinho",
+    "url": "https://www.tasteatlas.com/cajuzinho",
+    "ranking": "69",
+    "position": 69
+  },
+  {
+    "name": "Salpicão de Frango",
+    "url": "https://www.tasteatlas.com/salpicao",
+    "ranking": "70",
+    "position": 70
+  },
+  {
+    "name": "Virado",
+    "url": "https://www.tasteatlas.com/virado",
+    "ranking": "71",
+    "position": 71
+  },
+  {
+    "name": "Sanduiche de mortadella",
+    "url": "https://www.tasteatlas.com/sanduiche-de-mortadella",
+    "ranking": "72",
+    "position": 72
+  },
+  {
+    "name": "Anthill Cake (Bolo formigueiro)",
+    "url": "https://www.tasteatlas.com/bolo-formigueiro",
+    "ranking": "73",
+    "position": 73
+  },
+  {
+    "name": "Paleta",
+    "url": "https://www.tasteatlas.com/paleta",
+    "ranking": "74",
+    "position": 74
+  },
+  {
+    "name": "Quibebe",
+    "url": "https://www.tasteatlas.com/quibebe",
+    "ranking": "75",
+    "position": 75
+  },
+  {
+    "name": "Salada de maionese",
+    "url": "https://www.tasteatlas.com/salada-de-maionese",
+    "ranking": "76",
+    "position": 76
+  },
+  {
+    "name": "Mocotó",
+    "url": "https://www.tasteatlas.com/mocoto",
+    "ranking": "77",
+    "position": 77
+  },
+  {
+    "name": "Peito",
+    "url": "https://www.tasteatlas.com/peito",
+    "ranking": "78",
+    "position": 78
+  },
+  {
+    "name": "Músculo",
+    "url": "https://www.tasteatlas.com/musculo",
+    "ranking": "79",
+    "position": 79
+  },
+  {
+    "name": "Pé-de-moleque",
+    "url": "https://www.tasteatlas.com/pe-de-moleque",
+    "ranking": "80",
+    "position": 80
+  },
+  {
+    "name": "Sequilhos",
+    "url": "https://www.tasteatlas.com/sequilhos",
+    "ranking": "81",
+    "position": 81
+  },
+  {
+    "name": "Sagu",
+    "url": "https://www.tasteatlas.com/sagu",
+    "ranking": "82",
+    "position": 82
+  },
+  {
+    "name": "Tareco",
+    "url": "https://www.tasteatlas.com/tareco",
+    "ranking": "83",
+    "position": 83
+  },
+  {
+    "name": "Lagarto",
+    "url": "https://www.tasteatlas.com/lagarto",
+    "ranking": "84",
+    "position": 84
+  },
+  {
+    "name": "Acém",
+    "url": "https://www.tasteatlas.com/acem",
+    "ranking": "85",
+    "position": 85
+  },
+  {
+    "name": "Pato no tucupi",
+    "url": "https://www.tasteatlas.com/pato-no-tucupi",
+    "ranking": "86",
+    "position": 86
+  },
+  {
+    "name": "Maria-mole",
+    "url": "https://www.tasteatlas.com/maria-mole",
+    "ranking": "87",
+    "position": 87
+  },
+  {
+    "name": "Arroz com pequi",
+    "url": "https://www.tasteatlas.com/arroz-com-pequi",
+    "ranking": "88",
+    "position": 88
+  },
+  {
+    "name": "Cuscuz Paulista",
+    "url": "https://www.tasteatlas.com/cuscuz-paulista",
+    "ranking": "89",
+    "position": 89
+  },
+  {
+    "name": "Witch's Cake (Bolo de bruxa)",
+    "url": "https://www.tasteatlas.com/bolo-de-bruxa",
+    "ranking": "90",
+    "position": 90
+  },
+  {
+    "name": "Panelada",
+    "url": "https://www.tasteatlas.com/panelada",
+    "ranking": "91",
+    "position": 91
+  },
+  {
+    "name": "Aba de filé",
+    "url": "https://www.tasteatlas.com/aba-de-file",
+    "ranking": "92",
+    "position": 92
+  },
+  {
+    "name": "Capa de filé",
+    "url": "https://www.tasteatlas.com/capa-de-file",
+    "ranking": "93",
+    "position": 93
+  },
+  {
+    "name": "Sopa Leão Veloso",
+    "url": "https://www.tasteatlas.com/sopa-leao-veloso",
+    "ranking": "94",
+    "position": 94
+  },
+  {
+    "name": "Ponta de agulha",
+    "url": "https://www.tasteatlas.com/ponta-de-agulha",
+    "ranking": "95",
+    "position": 95
+  },
+  {
+    "name": "Caldo de piranha",
+    "url": "https://www.tasteatlas.com/caldo-de-piranha",
+    "ranking": "96",
+    "position": 96
+  },
+  {
+    "name": "Acaçá",
+    "url": "https://www.tasteatlas.com/acaca",
+    "ranking": "97",
+    "position": 97
+  },
+  {
+    "name": "Baixaria",
+    "url": "https://www.tasteatlas.com/baixaria",
+    "ranking": "98",
+    "position": 98
+  },
+  {
+    "name": "Bijajica",
+    "url": "https://www.tasteatlas.com/bijajica",
+    "ranking": "99",
+    "position": 99
+  },
+  {
+    "name": "Ostra ao bafo",
+    "url": "https://www.tasteatlas.com/ostra-ao-bafo",
+    "ranking": "100",
+    "position": 101
+  }
+]

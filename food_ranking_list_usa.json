@@ -1,0 +1,602 @@
+[
+  {
+    "name": "South Texas-Style Barbecue",
+    "url": "https://www.tasteatlas.com/south-texas-style-barbecue",
+    "ranking": "01",
+    "position": 1
+  },
+  {
+    "name": "Ribeye",
+    "url": "https://www.tasteatlas.com/ribeye",
+    "ranking": "02",
+    "position": 2
+  },
+  {
+    "name": "Brisket",
+    "url": "https://www.tasteatlas.com/brisket",
+    "ranking": "03",
+    "position": 3
+  },
+  {
+    "name": "Boiled Maine Lobster",
+    "url": "https://www.tasteatlas.com/boiled-maine-lobster",
+    "ranking": "04",
+    "position": 4
+  },
+  {
+    "name": "Frozen custard",
+    "url": "https://www.tasteatlas.com/frozen-custard",
+    "ranking": "05",
+    "position": 5
+  },
+  {
+    "name": "Maine-style Lobster Roll",
+    "url": "https://www.tasteatlas.com/maine-style-lobster-roll",
+    "ranking": "06",
+    "position": 6
+  },
+  {
+    "name": "Poke",
+    "url": "https://www.tasteatlas.com/poke",
+    "ranking": "07",
+    "position": 7
+  },
+  {
+    "name": "Beef ribs",
+    "url": "https://www.tasteatlas.com/beef-ribs",
+    "ranking": "08",
+    "position": 8
+  },
+  {
+    "name": "Étouffée",
+    "url": "https://www.tasteatlas.com/etouffee",
+    "ranking": "09",
+    "position": 9
+  },
+  {
+    "name": "Sirloin",
+    "url": "https://www.tasteatlas.com/sirloin",
+    "ranking": "10",
+    "position": 10
+  },
+  {
+    "name": "Porterhouse",
+    "url": "https://www.tasteatlas.com/porterhouse-USA",
+    "ranking": "11",
+    "position": 11
+  },
+  {
+    "name": "Filet mignon",
+    "url": "https://www.tasteatlas.com/filet-mignon",
+    "ranking": "12",
+    "position": 12
+  },
+  {
+    "name": "Delmonico Steak",
+    "url": "https://www.tasteatlas.com/delmonico-steak",
+    "ranking": "13",
+    "position": 13
+  },
+  {
+    "name": "Carne Asada Fries",
+    "url": "https://www.tasteatlas.com/carne-asada-fries",
+    "ranking": "14",
+    "position": 14
+  },
+  {
+    "name": "New Orleans-Style BBQ Shrimp",
+    "url": "https://www.tasteatlas.com/new-orleans-style-bbq-shrimp",
+    "ranking": "15",
+    "position": 15
+  },
+  {
+    "name": "Texas Brisket Sandwich",
+    "url": "https://www.tasteatlas.com/texas-brisket-sandwich",
+    "ranking": "16",
+    "position": 16
+  },
+  {
+    "name": "Shrimp Bisque",
+    "url": "https://www.tasteatlas.com/shrimp-bisque",
+    "ranking": "17",
+    "position": 17
+  },
+  {
+    "name": "She-crab soup",
+    "url": "https://www.tasteatlas.com/she-crab-soup",
+    "ranking": "18",
+    "position": 18
+  },
+  {
+    "name": "Flaming Saganaki",
+    "url": "https://www.tasteatlas.com/flaming-saganaki",
+    "ranking": "19",
+    "position": 19
+  },
+  {
+    "name": "Jibarito",
+    "url": "https://www.tasteatlas.com/jibarito-chicago",
+    "ranking": "20",
+    "position": 20
+  },
+  {
+    "name": "Brownies",
+    "url": "https://www.tasteatlas.com/brownies",
+    "ranking": "21",
+    "position": 21
+  },
+  {
+    "name": "Chocolate chip cookie",
+    "url": "https://www.tasteatlas.com/toll-house-chocolate-chip-cookies",
+    "ranking": "22",
+    "position": 22
+  },
+  {
+    "name": "Pulled Pork",
+    "url": "https://www.tasteatlas.com/pulled-pork",
+    "ranking": "23",
+    "position": 23
+  },
+  {
+    "name": "Reuben",
+    "url": "https://www.tasteatlas.com/reuben",
+    "ranking": "24",
+    "position": 24
+  },
+  {
+    "name": "Cheesesteak",
+    "url": "https://www.tasteatlas.com/cheesesteak",
+    "ranking": "25",
+    "position": 25
+  },
+  {
+    "name": "Key Lime Pie",
+    "url": "https://www.tasteatlas.com/key-lime-pie",
+    "ranking": "26",
+    "position": 26
+  },
+  {
+    "name": "New York-style cheesecake",
+    "url": "https://www.tasteatlas.com/new-york-style-cheesecake",
+    "ranking": "27",
+    "position": 27
+  },
+  {
+    "name": "Surf and Turf",
+    "url": "https://www.tasteatlas.com/surf-and-turf",
+    "ranking": "28",
+    "position": 28
+  },
+  {
+    "name": "Cuban Sandwich",
+    "url": "https://www.tasteatlas.com/cuban-sandwich",
+    "ranking": "29",
+    "position": 29
+  },
+  {
+    "name": "New York City Bagels",
+    "url": "https://www.tasteatlas.com/bagels",
+    "ranking": "30",
+    "position": 30
+  },
+  {
+    "name": "Standing Rib Roast",
+    "url": "https://www.tasteatlas.com/standing-rib-roast",
+    "ranking": "31",
+    "position": 31
+  },
+  {
+    "name": "Uramaki",
+    "url": "https://www.tasteatlas.com/uramaki",
+    "ranking": "32",
+    "position": 32
+  },
+  {
+    "name": "Brownie Sundae",
+    "url": "https://www.tasteatlas.com/brownie-sundae",
+    "ranking": "33",
+    "position": 33
+  },
+  {
+    "name": "Tuna Tartare",
+    "url": "https://www.tasteatlas.com/tuna-tartare",
+    "ranking": "34",
+    "position": 34
+  },
+  {
+    "name": "Malasadas",
+    "url": "https://www.tasteatlas.com/malasadas-hawaii",
+    "ranking": "35",
+    "position": 35
+  },
+  {
+    "name": "Clam Bake",
+    "url": "https://www.tasteatlas.com/clam-bake",
+    "ranking": "36",
+    "position": 36
+  },
+  {
+    "name": "California Sourdough Bread",
+    "url": "https://www.tasteatlas.com/california-sourdough-bread",
+    "ranking": "37",
+    "position": 37
+  },
+  {
+    "name": "Bagel and Lox",
+    "url": "https://www.tasteatlas.com/bagel-and-lox",
+    "ranking": "38",
+    "position": 38
+  },
+  {
+    "name": "Peanut Butter Pie",
+    "url": "https://www.tasteatlas.com/georgia-peanut-butter-pie",
+    "ranking": "39",
+    "position": 39
+  },
+  {
+    "name": "Maxwell Street Polish",
+    "url": "https://www.tasteatlas.com/maxwell-street-polish",
+    "ranking": "40",
+    "position": 40
+  },
+  {
+    "name": "Carne Asada Burrito",
+    "url": "https://www.tasteatlas.com/carne-asada-burrito",
+    "ranking": "41",
+    "position": 41
+  },
+  {
+    "name": "Hot Chicken Sandwich",
+    "url": "https://www.tasteatlas.com/hot-chicken-sandwich",
+    "ranking": "42",
+    "position": 42
+  },
+  {
+    "name": "American Babka",
+    "url": "https://www.tasteatlas.com/american-babka",
+    "ranking": "43",
+    "position": 43
+  },
+  {
+    "name": "Dungeness Crab Cake",
+    "url": "https://www.tasteatlas.com/dungeness-crab-cake",
+    "ranking": "44",
+    "position": 44
+  },
+  {
+    "name": "Porchetta sandwich (Porchetta sandwich)",
+    "url": "https://www.tasteatlas.com/porchetta-sandwich-USA",
+    "ranking": "45",
+    "position": 45
+  },
+  {
+    "name": "Philadelphia Sticky Buns",
+    "url": "https://www.tasteatlas.com/philadelphia-sticky-buns",
+    "ranking": "46",
+    "position": 46
+  },
+  {
+    "name": "Beignets",
+    "url": "https://www.tasteatlas.com/beignets-new-orleans",
+    "ranking": "47",
+    "position": 47
+  },
+  {
+    "name": "New England clam chowder",
+    "url": "https://www.tasteatlas.com/new-england-clam-chowder",
+    "ranking": "48",
+    "position": 48
+  },
+  {
+    "name": "Molten Chocolate Cake",
+    "url": "https://www.tasteatlas.com/molten-chocolate-cake",
+    "ranking": "49",
+    "position": 49
+  },
+  {
+    "name": "Orange chicken (Orange Chicken)",
+    "url": "https://www.tasteatlas.com/orange-chicken-USA",
+    "ranking": "50",
+    "position": 50
+  },
+  {
+    "name": "Garlic Knots",
+    "url": "https://www.tasteatlas.com/garlic-knots",
+    "ranking": "51",
+    "position": 51
+  },
+  {
+    "name": "Juicy Lucy",
+    "url": "https://www.tasteatlas.com/juicy-lucy",
+    "ranking": "52",
+    "position": 52
+  },
+  {
+    "name": "Steak and eggs",
+    "url": "https://www.tasteatlas.com/steak-and-eggs",
+    "ranking": "53",
+    "position": 53
+  },
+  {
+    "name": "Gooey Butter Cake",
+    "url": "https://www.tasteatlas.com/gooey-butter-cake",
+    "ranking": "54",
+    "position": 54
+  },
+  {
+    "name": "Sausage Gravy",
+    "url": "https://www.tasteatlas.com/sausage-gravy",
+    "ranking": "55",
+    "position": 55
+  },
+  {
+    "name": "Bananas Foster",
+    "url": "https://www.tasteatlas.com/bananas-foster",
+    "ranking": "56",
+    "position": 56
+  },
+  {
+    "name": "Texas Sheet Cake",
+    "url": "https://www.tasteatlas.com/texas-sheet-cake",
+    "ranking": "57",
+    "position": 57
+  },
+  {
+    "name": "Roast Pork Sandwich",
+    "url": "https://www.tasteatlas.com/roast-pork-sandwich",
+    "ranking": "58",
+    "position": 58
+  },
+  {
+    "name": "L.A. Galbi",
+    "url": "https://www.tasteatlas.com/la-galbi",
+    "ranking": "59",
+    "position": 59
+  },
+  {
+    "name": "Apizza",
+    "url": "https://www.tasteatlas.com/apizza",
+    "ranking": "60",
+    "position": 60
+  },
+  {
+    "name": "Mississippi Mud Pie",
+    "url": "https://www.tasteatlas.com/mississippi-mud-pie",
+    "ranking": "61",
+    "position": 61
+  },
+  {
+    "name": "Kalua Pig",
+    "url": "https://www.tasteatlas.com/kalua-pig",
+    "ranking": "62",
+    "position": 62
+  },
+  {
+    "name": "Beef on Weck",
+    "url": "https://www.tasteatlas.com/beef-on-weck",
+    "ranking": "63",
+    "position": 63
+  },
+  {
+    "name": "Humboldt Fog",
+    "url": "https://www.tasteatlas.com/humboldt-fog",
+    "ranking": "64",
+    "position": 64
+  },
+  {
+    "name": "Garbage Plate",
+    "url": "https://www.tasteatlas.com/garbage-plate",
+    "ranking": "65",
+    "position": 65
+  },
+  {
+    "name": "Pittsburgh Pierogies",
+    "url": "https://www.tasteatlas.com/pittsburg-pierogies",
+    "ranking": "66",
+    "position": 66
+  },
+  {
+    "name": "Klobasnek",
+    "url": "https://www.tasteatlas.com/klobasnek",
+    "ranking": "67",
+    "position": 67
+  },
+  {
+    "name": "Green Chili Stew",
+    "url": "https://www.tasteatlas.com/green-chili-stew",
+    "ranking": "68",
+    "position": 68
+  },
+  {
+    "name": "Marionberry Pie",
+    "url": "https://www.tasteatlas.com/marionberry-pie",
+    "ranking": "69",
+    "position": 69
+  },
+  {
+    "name": "Jo Jo Potatoes",
+    "url": "https://www.tasteatlas.com/jo-jo-potatoes",
+    "ranking": "70",
+    "position": 70
+  },
+  {
+    "name": "Buckeyes",
+    "url": "https://www.tasteatlas.com/buckeyes",
+    "ranking": "71",
+    "position": 71
+  },
+  {
+    "name": "Fajitas",
+    "url": "https://www.tasteatlas.com/fajitas",
+    "ranking": "72",
+    "position": 72
+  },
+  {
+    "name": "Milkshake",
+    "url": "https://www.tasteatlas.com/milkshake",
+    "ranking": "73",
+    "position": 73
+  },
+  {
+    "name": "Chili con Carne",
+    "url": "https://www.tasteatlas.com/chili-con-carne",
+    "ranking": "74",
+    "position": 74
+  },
+  {
+    "name": "Thanksgiving Dinner",
+    "url": "https://www.tasteatlas.com/thanksgiving-dinner",
+    "ranking": "75",
+    "position": 75
+  },
+  {
+    "name": "Chicken Parmigiana",
+    "url": "https://www.tasteatlas.com/chicken-parmigiana",
+    "ranking": "76",
+    "position": 76
+  },
+  {
+    "name": "Jambalaya",
+    "url": "https://www.tasteatlas.com/jambalaya",
+    "ranking": "77",
+    "position": 77
+  },
+  {
+    "name": "Dessert Bars",
+    "url": "https://www.tasteatlas.com/dessert-bars",
+    "ranking": "78",
+    "position": 78
+  },
+  {
+    "name": "Sesame Chicken",
+    "url": "https://www.tasteatlas.com/sesame-chicken",
+    "ranking": "79",
+    "position": 79
+  },
+  {
+    "name": "General Tso's chicken (General Tso's Chicken)",
+    "url": "https://www.tasteatlas.com/general-tsos-chicken-USA",
+    "ranking": "80",
+    "position": 80
+  },
+  {
+    "name": "Chimichanga",
+    "url": "https://www.tasteatlas.com/chimichanga",
+    "ranking": "81",
+    "position": 81
+  },
+  {
+    "name": "Chicken Tenders",
+    "url": "https://www.tasteatlas.com/chicken-tenders",
+    "ranking": "82",
+    "position": 82
+  },
+  {
+    "name": "Pastrami (Pastrami)",
+    "url": "https://www.tasteatlas.com/pastrami",
+    "ranking": "83",
+    "position": 83
+  },
+  {
+    "name": "Lemon meringue pie (Lemon meringue pie)",
+    "url": "https://www.tasteatlas.com/lemon-meringue-pie-USA",
+    "ranking": "84",
+    "position": 84
+  },
+  {
+    "name": "Italian Beef",
+    "url": "https://www.tasteatlas.com/italian-beef",
+    "ranking": "85",
+    "position": 85
+  },
+  {
+    "name": "Bacon, Egg and Cheese Sandwich",
+    "url": "https://www.tasteatlas.com/bacon-egg-and-cheese-sandwich",
+    "ranking": "86",
+    "position": 86
+  },
+  {
+    "name": "Baked potato",
+    "url": "https://www.tasteatlas.com/baked-potato",
+    "ranking": "87",
+    "position": 87
+  },
+  {
+    "name": "Cheese curds",
+    "url": "https://www.tasteatlas.com/cheese-curds",
+    "ranking": "88",
+    "position": 88
+  },
+  {
+    "name": "Chicago-Style Hot Dog",
+    "url": "https://www.tasteatlas.com/chicago-style-hot-dog",
+    "ranking": "89",
+    "position": 89
+  },
+  {
+    "name": "Shrimp and grits",
+    "url": "https://www.tasteatlas.com/shrimp-and-grits",
+    "ranking": "90",
+    "position": 90
+  },
+  {
+    "name": "Apple Cobbler",
+    "url": "https://www.tasteatlas.com/apple-cobbler",
+    "ranking": "91",
+    "position": 91
+  },
+  {
+    "name": "Italian Sandwich",
+    "url": "https://www.tasteatlas.com/italian-sandwich",
+    "ranking": "92",
+    "position": 92
+  },
+  {
+    "name": "Banana Pudding",
+    "url": "https://www.tasteatlas.com/banana-pudding",
+    "ranking": "93",
+    "position": 93
+  },
+  {
+    "name": "Muffuletta",
+    "url": "https://www.tasteatlas.com/muffuletta",
+    "ranking": "94",
+    "position": 94
+  },
+  {
+    "name": "Melt Sandwich",
+    "url": "https://www.tasteatlas.com/melt-sandwich",
+    "ranking": "95",
+    "position": 95
+  },
+  {
+    "name": "Cioppino",
+    "url": "https://www.tasteatlas.com/cioppino",
+    "ranking": "96",
+    "position": 96
+  },
+  {
+    "name": "Blueberry Cobbler",
+    "url": "https://www.tasteatlas.com/blueberry-cobbler",
+    "ranking": "97",
+    "position": 97
+  },
+  {
+    "name": "Pulled Pork Nachos",
+    "url": "https://www.tasteatlas.com/pulled-pork-nachos",
+    "ranking": "98",
+    "position": 98
+  },
+  {
+    "name": "Plate Lunch",
+    "url": "https://www.tasteatlas.com/plate-lunch",
+    "ranking": "99",
+    "position": 99
+  },
+  {
+    "name": "Fried Cabbage",
+    "url": "https://www.tasteatlas.com/fried-cabbage",
+    "ranking": "100",
+    "position": 100
+  }
+]

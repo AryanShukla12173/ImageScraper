@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Butter garlic naan",
+    "url": "https://www.tasteatlas.com/butter-garlic-naan",
+    "ranking": "01",
+    "position": 1
+  },
+  {
+    "name": "Parotta",
+    "url": "https://www.tasteatlas.com/parotta",
+    "ranking": "02",
+    "position": 2
+  },
+  {
+    "name": "Amritsari kulcha",
+    "url": "https://www.tasteatlas.com/amritsari-kulcha",
+    "ranking": "03",
+    "position": 3
+  },
+  {
+    "name": "Butter chicken (Murgh makhani)",
+    "url": "https://www.tasteatlas.com/butter-chicken",
+    "ranking": "04",
+    "position": 4
+  },
+  {
+    "name": "Hyderabadi biryani",
+    "url": "https://www.tasteatlas.com/hyderabadi-biryani",
+    "ranking": "05",
+    "position": 5
+  },
+  {
+    "name": "Misal",
+    "url": "https://www.tasteatlas.com/misal",
+    "ranking": "06",
+    "position": 6
+  },
+  {
+    "name": "Aamras",
+    "url": "https://www.tasteatlas.com/aamras",
+    "ranking": "07",
+    "position": 7
+  },
+  {
+    "name": "Tandoori chicken (Tandoori murgh)",
+    "url": "https://www.tasteatlas.com/tandoori-chicken",
+    "ranking": "08",
+    "position": 8
+  },
+  {
+    "name": "Dal tadka",
+    "url": "https://www.tasteatlas.com/dal-tadka",
+    "ranking": "09",
+    "position": 9
+  },
+  {
+    "name": "Masala dosa",
+    "url": "https://www.tasteatlas.com/masala-dosa",
+    "ranking": "10",
+    "position": 10
+  },
+  {
+    "name": "Chicken 65",
+    "url": "https://www.tasteatlas.com/chicken-65",
+    "ranking": "11",
+    "position": 11
+  },
+  {
+    "name": "Chole bhature",
+    "url": "https://www.tasteatlas.com/chole-bhature",
+    "ranking": "12",
+    "position": 12
+  },
+  {
+    "name": "Phirni",
+    "url": "https://www.tasteatlas.com/phirni",
+    "ranking": "13",
+    "position": 13
+  },
+  {
+    "name": "Panipuri",
+    "url": "https://www.tasteatlas.com/panipuri",
+    "ranking": "14",
+    "position": 14
+  },
+  {
+    "name": "Pav bhaji",
+    "url": "https://www.tasteatlas.com/pav-bhaji",
+    "ranking": "15",
+    "position": 15
+  },
+  {
+    "name": "Nihari",
+    "url": "https://www.tasteatlas.com/nihari",
+    "ranking": "16",
+    "position": 16
+  },
+  {
+    "name": "Upperi",
+    "url": "https://www.tasteatlas.com/upperi",
+    "ranking": "17",
+    "position": 17
+  },
+  {
+    "name": "Kaju katli",
+    "url": "https://www.tasteatlas.com/kaju-katli",
+    "ranking": "18",
+    "position": 18
+  },
+  {
+    "name": "Misal pav",
+    "url": "https://www.tasteatlas.com/misal-pav",
+    "ranking": "19",
+    "position": 19
+  },
+  {
+    "name": "Shrikhand",
+    "url": "https://www.tasteatlas.com/shrikhand",
+    "ranking": "20",
+    "position": 20
+  },
+  {
+    "name": "Papri chaat",
+    "url": "https://www.tasteatlas.com/papri-chaat",
+    "ranking": "21",
+    "position": 21
+  },
+  {
+    "name": "Coriander chutney (Dhaniya ki chutney)",
+    "url": "https://www.tasteatlas.com/coriander-chutney",
+    "ranking": "22",
+    "position": 22
+  },
+  {
+    "name": "Batata vada",
+    "url": "https://www.tasteatlas.com/batata-vada",
+    "ranking": "23",
+    "position": 23
+  },
+  {
+    "name": "Pakora",
+    "url": "https://www.tasteatlas.com/pakora",
+    "ranking": "24",
+    "position": 24
+  },
+  {
+    "name": "Palak paneer",
+    "url": "https://www.tasteatlas.com/palak-paneer",
+    "ranking": "25",
+    "position": 25
+  },
+  {
+    "name": "Vada pav",
+    "url": "https://www.tasteatlas.com/vada-pav",
+    "ranking": "26",
+    "position": 26
+  },
+  {
+    "name": "Gobi manchurian",
+    "url": "https://www.tasteatlas.com/gobi-manchurian",
+    "ranking": "27",
+    "position": 27
+  },
+  {
+    "name": "Aloo paratha",
+    "url": "https://www.tasteatlas.com/aloo-paratha",
+    "ranking": "28",
+    "position": 28
+  },
+  {
+    "name": "Kadai paneer",
+    "url": "https://www.tasteatlas.com/kadai-paneer",
+    "ranking": "29",
+    "position": 29
+  },
+  {
+    "name": "Chilli paneer",
+    "url": "https://www.tasteatlas.com/chilli-paneer",
+    "ranking": "30",
+    "position": 30
+  },
+  {
+    "name": "Mysore pak",
+    "url": "https://www.tasteatlas.com/mysore-pak",
+    "ranking": "31",
+    "position": 31
+  },
+  {
+    "name": "Dahi vada",
+    "url": "https://www.tasteatlas.com/dahi-vada",
+    "ranking": "32",
+    "position": 32
+  },
+  {
+    "name": "Bhatura",
+    "url": "https://www.tasteatlas.com/bhatura",
+    "ranking": "33",
+    "position": 33
+  },
+  {
+    "name": "Rumali roti",
+    "url": "https://www.tasteatlas.com/rumali-roti",
+    "ranking": "34",
+    "position": 34
+  },
+  {
+    "name": "Chicken kathi roll",
+    "url": "https://www.tasteatlas.com/chicken-kathi-roll",
+    "ranking": "35",
+    "position": 35
+  },
+  {
+    "name": "Kheer",
+    "url": "https://www.tasteatlas.com/kheer",
+    "ranking": "36",
+    "position": 36
+  },
+  {
+    "name": "Chicken tikka (Murgh tikka)",
+    "url": "https://www.tasteatlas.com/murgh-tikka",
+    "ranking": "37",
+    "position": 37
+  },
+  {
+    "name": "Rasgulla",
+    "url": "https://www.tasteatlas.com/rasgulla",
+    "ranking": "38",
+    "position": 38
+  },
+  {
+    "name": "Sambar",
+    "url": "https://www.tasteatlas.com/sambar",
+    "ranking": "39",
+    "position": 39
+  },
+  {
+    "name": "Laddu",
+    "url": "https://www.tasteatlas.com/laddu",
+    "ranking": "40",
+    "position": 40
+  },
+  {
+    "name": "Ras malai",
+    "url": "https://www.tasteatlas.com/ras-malai-west-bengal",
+    "ranking": "41",
+    "position": 41
+  },
+  {
+    "name": "Aloo gobi",
+    "url": "https://www.tasteatlas.com/aloo-gobi",
+    "ranking": "42",
+    "position": 43
+  },
+  {
+    "name": "Sabudana vada",
+    "url": "https://www.tasteatlas.com/sabudana-vada",
+    "ranking": "43",
+    "position": 44
+  },
+  {
+    "name": "Patrode",
+    "url": "https://www.tasteatlas.com/patrode",
+    "ranking": "44",
+    "position": 45
+  },
+  {
+    "name": "Galouti kebab",
+    "url": "https://www.tasteatlas.com/galouti-kebab",
+    "ranking": "45",
+    "position": 46
+  },
+  {
+    "name": "Kulfi falooda",
+    "url": "https://www.tasteatlas.com/kulfi-falooda",
+    "ranking": "46",
+    "position": 47
+  },
+  {
+    "name": "Onion samosa (Pyaaz samosa)",
+    "url": "https://www.tasteatlas.com/onion-samosa",
+    "ranking": "47",
+    "position": 48
+  },
+  {
+    "name": "Sakkarai pongal",
+    "url": "https://www.tasteatlas.com/sakkarai-pongal",
+    "ranking": "48",
+    "position": 49
+  },
+  {
+    "name": "Masala omelet",
+    "url": "https://www.tasteatlas.com/indian-masala-omelet",
+    "ranking": "49",
+    "position": 50
+  },
+  {
+    "name": "Gulab jamun",
+    "url": "https://www.tasteatlas.com/gulab-jamun",
+    "ranking": "50",
+    "position": 51
+  },
+  {
+    "name": "Dal makhani",
+    "url": "https://www.tasteatlas.com/dal-makhani",
+    "ranking": "51",
+    "position": 52
+  },
+  {
+    "name": "Medu vada",
+    "url": "https://www.tasteatlas.com/medu-vada",
+    "ranking": "52",
+    "position": 53
+  },
+  {
+    "name": "Aloo tikki",
+    "url": "https://www.tasteatlas.com/aloo-tikki",
+    "ranking": "53",
+    "position": 54
+  },
+  {
+    "name": "Sadhya",
+    "url": "https://www.tasteatlas.com/sadhya",
+    "ranking": "54",
+    "position": 55
+  },
+  {
+    "name": "Boondi",
+    "url": "https://www.tasteatlas.com/boondi",
+    "ranking": "55",
+    "position": 56
+  },
+  {
+    "name": "Peda",
+    "url": "https://www.tasteatlas.com/peda",
+    "ranking": "56",
+    "position": 57
+  },
+  {
+    "name": "Puran poli",
+    "url": "https://www.tasteatlas.com/puran-poli",
+    "ranking": "57",
+    "position": 58
+  },
+  {
+    "name": "Pulihora",
+    "url": "https://www.tasteatlas.com/pulihora",
+    "ranking": "58",
+    "position": 59
+  },
+  {
+    "name": "Barfi",
+    "url": "https://www.tasteatlas.com/barfi",
+    "ranking": "59",
+    "position": 60
+  },
+  {
+    "name": "Jeera bhaat",
+    "url": "https://www.tasteatlas.com/jeera-rice",
+    "ranking": "60",
+    "position": 61
+  },
+  {
+    "name": "Gajar ka halwa",
+    "url": "https://www.tasteatlas.com/gajar-ka-halwa",
+    "ranking": "61",
+    "position": 62
+  },
+  {
+    "name": "Sandesh",
+    "url": "https://www.tasteatlas.com/sandesh",
+    "ranking": "62",
+    "position": 63
+  },
+  {
+    "name": "Bombay sandwich",
+    "url": "https://www.tasteatlas.com/bombay-sandwich",
+    "ranking": "63",
+    "position": 64
+  },
+  {
+    "name": "Aloo palak",
+    "url": "https://www.tasteatlas.com/aloo-palak",
+    "ranking": "64",
+    "position": 65
+  },
+  {
+    "name": "Egg bhurji (Anda bhurji)",
+    "url": "https://www.tasteatlas.com/egg-bhurji",
+    "ranking": "65",
+    "position": 66
+  },
+  {
+    "name": "Basundi",
+    "url": "https://www.tasteatlas.com/basundi",
+    "ranking": "66",
+    "position": 67
+  },
+  {
+    "name": "Masala vada",
+    "url": "https://www.tasteatlas.com/masala-vada",
+    "ranking": "67",
+    "position": 68
+  },
+  {
+    "name": "Bonda",
+    "url": "https://www.tasteatlas.com/bonda",
+    "ranking": "68",
+    "position": 69
+  },
+  {
+    "name": "Chikki",
+    "url": "https://www.tasteatlas.com/chikki",
+    "ranking": "69",
+    "position": 70
+  },
+  {
+    "name": "Uttapam",
+    "url": "https://www.tasteatlas.com/uttapam",
+    "ranking": "70",
+    "position": 71
+  },
+  {
+    "name": "Baingan bharta",
+    "url": "https://www.tasteatlas.com/baingan-bharta",
+    "ranking": "71",
+    "position": 72
+  },
+  {
+    "name": "Khakhra",
+    "url": "https://www.tasteatlas.com/khakhra",
+    "ranking": "72",
+    "position": 73
+  },
+  {
+    "name": "Shorshe ilish",
+    "url": "https://www.tasteatlas.com/shorshe-ilish-west-bengal",
+    "ranking": "73",
+    "position": 74
+  },
+  {
+    "name": "Idli",
+    "url": "https://www.tasteatlas.com/idli",
+    "ranking": "74",
+    "position": 75
+  },
+  {
+    "name": "Jalebi",
+    "url": "https://www.tasteatlas.com/jalebi",
+    "ranking": "75",
+    "position": 76
+  },
+  {
+    "name": "Khaja",
+    "url": "https://www.tasteatlas.com/khaja",
+    "ranking": "76",
+    "position": 77
+  },
+  {
+    "name": "Masala papad",
+    "url": "https://www.tasteatlas.com/masala-papad",
+    "ranking": "77",
+    "position": 78
+  },
+  {
+    "name": "Avial",
+    "url": "https://www.tasteatlas.com/avial",
+    "ranking": "78",
+    "position": 79
+  },
+  {
+    "name": "Dabeli",
+    "url": "https://www.tasteatlas.com/dabeli",
+    "ranking": "79",
+    "position": 80
+  },
+  {
+    "name": "Bikaneri bhujia",
+    "url": "https://www.tasteatlas.com/bikaneri-bhujia",
+    "ranking": "80",
+    "position": 81
+  },
+  {
+    "name": "Mishti doi",
+    "url": "https://www.tasteatlas.com/mishti-doi",
+    "ranking": "81",
+    "position": 82
+  },
+  {
+    "name": "Malpua",
+    "url": "https://www.tasteatlas.com/malpua",
+    "ranking": "82",
+    "position": 83
+  },
+  {
+    "name": "Falooda",
+    "url": "https://www.tasteatlas.com/falooda",
+    "ranking": "83",
+    "position": 84
+  },
+  {
+    "name": "Dhokla",
+    "url": "https://www.tasteatlas.com/dhokla",
+    "ranking": "84",
+    "position": 85
+  },
+  {
+    "name": "Dum aloo",
+    "url": "https://www.tasteatlas.com/dum-aloo",
+    "ranking": "85",
+    "position": 86
+  },
+  {
+    "name": "Neer dosa",
+    "url": "https://www.tasteatlas.com/neer-dosa",
+    "ranking": "86",
+    "position": 87
+  },
+  {
+    "name": "Aloo methi",
+    "url": "https://www.tasteatlas.com/aloo-methi",
+    "ranking": "87",
+    "position": 88
+  },
+  {
+    "name": "Khichdi",
+    "url": "https://www.tasteatlas.com/khichdi",
+    "ranking": "88",
+    "position": 89
+  },
+  {
+    "name": "Kachori",
+    "url": "https://www.tasteatlas.com/kachori",
+    "ranking": "89",
+    "position": 90
+  },
+  {
+    "name": "Kalakand",
+    "url": "https://www.tasteatlas.com/kalakand",
+    "ranking": "90",
+    "position": 91
+  },
+  {
+    "name": "Panjiri",
+    "url": "https://www.tasteatlas.com/panjiri",
+    "ranking": "91",
+    "position": 92
+  },
+  {
+    "name": "Achappam",
+    "url": "https://www.tasteatlas.com/achappam",
+    "ranking": "92",
+    "position": 93
+  },
+  {
+    "name": "Upma",
+    "url": "https://www.tasteatlas.com/upma",
+    "ranking": "93",
+    "position": 94
+  },
+  {
+    "name": "Baati",
+    "url": "https://www.tasteatlas.com/baati",
+    "ranking": "94",
+    "position": 95
+  },
+  {
+    "name": "Bhakri",
+    "url": "https://www.tasteatlas.com/bhakri",
+    "ranking": "95",
+    "position": 96
+  },
+  {
+    "name": "Curd rice (Thayir sadam)",
+    "url": "https://www.tasteatlas.com/curd-rice",
+    "ranking": "96",
+    "position": 97
+  },
+  {
+    "name": "Murukku",
+    "url": "https://www.tasteatlas.com/murukku",
+    "ranking": "97",
+    "position": 98
+  },
+  {
+    "name": "Agra petha",
+    "url": "https://www.tasteatlas.com/agra-petha",
+    "ranking": "98",
+    "position": 99
+  },
+  {
+    "name": "Bisi bele bath",
+    "url": "https://www.tasteatlas.com/bisi-bele-bath",
+    "ranking": "99",
+    "position": 100
+  },
+  {
+    "name": "Panta bhat",
+    "url": "https://www.tasteatlas.com/panta-bhat-north-eastern-india",
+    "ranking": "100",
+    "position": 101
+  }
+]

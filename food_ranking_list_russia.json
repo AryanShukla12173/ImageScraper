@@ -1,0 +1,368 @@
+[
+  {
+    "name": "Shashlik",
+    "url": "https://www.tasteatlas.com/shashlik",
+    "ranking": "01",
+    "position": 1
+  },
+  {
+    "name": "Blini",
+    "url": "https://www.tasteatlas.com/bliny",
+    "ranking": "02",
+    "position": 2
+  },
+  {
+    "name": "Medovik",
+    "url": "https://www.tasteatlas.com/medovik",
+    "ranking": "03",
+    "position": 3
+  },
+  {
+    "name": "Syrniki",
+    "url": "https://www.tasteatlas.com/syrniki",
+    "ranking": "04",
+    "position": 4
+  },
+  {
+    "name": "Khychin",
+    "url": "https://www.tasteatlas.com/khychin",
+    "ranking": "05",
+    "position": 5
+  },
+  {
+    "name": "Varenye",
+    "url": "https://www.tasteatlas.com/varenye",
+    "ranking": "06",
+    "position": 6
+  },
+  {
+    "name": "Tvorog",
+    "url": "https://www.tasteatlas.com/tvorog",
+    "ranking": "07",
+    "position": 7
+  },
+  {
+    "name": "Pirozhki",
+    "url": "https://www.tasteatlas.com/pirozhki",
+    "ranking": "08",
+    "position": 8
+  },
+  {
+    "name": "Mushroom Julienne",
+    "url": "https://www.tasteatlas.com/mushroom-julienne",
+    "ranking": "09",
+    "position": 9
+  },
+  {
+    "name": "Beef Stroganoff",
+    "url": "https://www.tasteatlas.com/beef-stroganoff",
+    "ranking": "10",
+    "position": 10
+  },
+  {
+    "name": "Oladyi",
+    "url": "https://www.tasteatlas.com/oladyi",
+    "ranking": "11",
+    "position": 11
+  },
+  {
+    "name": "Pozharsky cutlet (Pozharskaya kotleta)",
+    "url": "https://www.tasteatlas.com/pozharsky-cutlet",
+    "ranking": "12",
+    "position": 12
+  },
+  {
+    "name": "Napolyeon tort",
+    "url": "https://www.tasteatlas.com/napolyeon-tort",
+    "ranking": "13",
+    "position": 13
+  },
+  {
+    "name": "Buuz",
+    "url": "https://www.tasteatlas.com/buuz-buryatia",
+    "ranking": "14",
+    "position": 14
+  },
+  {
+    "name": "Golubtsy",
+    "url": "https://www.tasteatlas.com/golubtsy",
+    "ranking": "15",
+    "position": 15
+  },
+  {
+    "name": "Ptichye moloko",
+    "url": "https://www.tasteatlas.com/ptichye-moloko",
+    "ranking": "16",
+    "position": 16
+  },
+  {
+    "name": "Stroganina",
+    "url": "https://www.tasteatlas.com/stroganina",
+    "ranking": "17",
+    "position": 17
+  },
+  {
+    "name": "Echpochmak",
+    "url": "https://www.tasteatlas.com/echpochmak",
+    "ranking": "18",
+    "position": 18
+  },
+  {
+    "name": "Olivier Salad",
+    "url": "https://www.tasteatlas.com/olivier-salad",
+    "ranking": "19",
+    "position": 19
+  },
+  {
+    "name": "Sharlotka",
+    "url": "https://www.tasteatlas.com/sharlotka",
+    "ranking": "20",
+    "position": 20
+  },
+  {
+    "name": "Vatrushka",
+    "url": "https://www.tasteatlas.com/vatrushka",
+    "ranking": "21",
+    "position": 21
+  },
+  {
+    "name": "Solyanka",
+    "url": "https://www.tasteatlas.com/solyanka",
+    "ranking": "22",
+    "position": 22
+  },
+  {
+    "name": "Kurnik",
+    "url": "https://www.tasteatlas.com/kurnik",
+    "ranking": "23",
+    "position": 23
+  },
+  {
+    "name": "Smetannik",
+    "url": "https://www.tasteatlas.com/smetannik",
+    "ranking": "24",
+    "position": 24
+  },
+  {
+    "name": "Pelmeni s gribami",
+    "url": "https://www.tasteatlas.com/pelmeni-s-gribami",
+    "ranking": "25",
+    "position": 25
+  },
+  {
+    "name": "Pastila",
+    "url": "https://www.tasteatlas.com/pastila",
+    "ranking": "26",
+    "position": 26
+  },
+  {
+    "name": "Paskha",
+    "url": "https://www.tasteatlas.com/paskha",
+    "ranking": "27",
+    "position": 27
+  },
+  {
+    "name": "Coulibiac",
+    "url": "https://www.tasteatlas.com/coulibiac",
+    "ranking": "28",
+    "position": 28
+  },
+  {
+    "name": "Vinegret",
+    "url": "https://www.tasteatlas.com/vinegret",
+    "ranking": "29",
+    "position": 29
+  },
+  {
+    "name": "Prianik",
+    "url": "https://www.tasteatlas.com/prianik",
+    "ranking": "30",
+    "position": 30
+  },
+  {
+    "name": "Sukhariki",
+    "url": "https://www.tasteatlas.com/sukhariki",
+    "ranking": "31",
+    "position": 31
+  },
+  {
+    "name": "Zefir",
+    "url": "https://www.tasteatlas.com/zefir",
+    "ranking": "32",
+    "position": 32
+  },
+  {
+    "name": "Limonnik",
+    "url": "https://www.tasteatlas.com/limonnik",
+    "ranking": "33",
+    "position": 33
+  },
+  {
+    "name": "Sushki",
+    "url": "https://www.tasteatlas.com/sushki",
+    "ranking": "34",
+    "position": 34
+  },
+  {
+    "name": "Çäkçäk",
+    "url": "https://www.tasteatlas.com/cakcak",
+    "ranking": "35",
+    "position": 35
+  },
+  {
+    "name": "Guriev kasha",
+    "url": "https://www.tasteatlas.com/guriev-kasha",
+    "ranking": "36",
+    "position": 36
+  },
+  {
+    "name": "Kissel",
+    "url": "https://www.tasteatlas.com/kissel",
+    "ranking": "37",
+    "position": 37
+  },
+  {
+    "name": "Okroshka",
+    "url": "https://www.tasteatlas.com/okroshka",
+    "ranking": "38",
+    "position": 38
+  },
+  {
+    "name": "Herring Under a Fur Coat (Shuba)",
+    "url": "https://www.tasteatlas.com/dressed-herring",
+    "ranking": "39",
+    "position": 39
+  },
+  {
+    "name": "Ukha",
+    "url": "https://www.tasteatlas.com/ukha",
+    "ranking": "40",
+    "position": 40
+  },
+  {
+    "name": "Klotski",
+    "url": "https://www.tasteatlas.com/klotski",
+    "ranking": "41",
+    "position": 41
+  },
+  {
+    "name": "Kasha",
+    "url": "https://www.tasteatlas.com/kasha",
+    "ranking": "42",
+    "position": 42
+  },
+  {
+    "name": "Rassolnik",
+    "url": "https://www.tasteatlas.com/rassolnik",
+    "ranking": "43",
+    "position": 43
+  },
+  {
+    "name": "Mimoza Salad",
+    "url": "https://www.tasteatlas.com/mimoza-salad",
+    "ranking": "44",
+    "position": 44
+  },
+  {
+    "name": "Mishka na severe",
+    "url": "https://www.tasteatlas.com/mishka-na-severe",
+    "ranking": "45",
+    "position": 45
+  },
+  {
+    "name": "Shchi",
+    "url": "https://www.tasteatlas.com/shchi",
+    "ranking": "46",
+    "position": 46
+  },
+  {
+    "name": "Kutia",
+    "url": "https://www.tasteatlas.com/kutia-russia",
+    "ranking": "47",
+    "position": 47
+  },
+  {
+    "name": "Kholodets",
+    "url": "https://www.tasteatlas.com/kholodets",
+    "ranking": "48",
+    "position": 48
+  },
+  {
+    "name": "Indigirka Salad",
+    "url": "https://www.tasteatlas.com/indigirka-salad",
+    "ranking": "49",
+    "position": 49
+  },
+  {
+    "name": "Tabani",
+    "url": "https://www.tasteatlas.com/tabani",
+    "ranking": "50",
+    "position": 50
+  },
+  {
+    "name": "Veal Orloff",
+    "url": "https://www.tasteatlas.com/veal-orloff",
+    "ranking": "51",
+    "position": 51
+  },
+  {
+    "name": "Bortsoki",
+    "url": "https://www.tasteatlas.com/bortsoki",
+    "ranking": "52",
+    "position": 52
+  },
+  {
+    "name": "Kyorchekh",
+    "url": "https://www.tasteatlas.com/kyorchekh",
+    "ranking": "53",
+    "position": 53
+  },
+  {
+    "name": "Kurze",
+    "url": "https://www.tasteatlas.com/kurze",
+    "ranking": "54",
+    "position": 54
+  },
+  {
+    "name": "Elesh",
+    "url": "https://www.tasteatlas.com/elesh",
+    "ranking": "55",
+    "position": 55
+  },
+  {
+    "name": "Avar khinkal",
+    "url": "https://www.tasteatlas.com/avar-khinkal",
+    "ranking": "56",
+    "position": 56
+  },
+  {
+    "name": "Perepechi",
+    "url": "https://www.tasteatlas.com/perepechi",
+    "ranking": "57",
+    "position": 57
+  },
+  {
+    "name": "Anke Pie",
+    "url": "https://www.tasteatlas.com/anke-pie",
+    "ranking": "58",
+    "position": 58
+  },
+  {
+    "name": "Nevsky pirog",
+    "url": "https://www.tasteatlas.com/nevsky-pirog",
+    "ranking": "59",
+    "position": 59
+  },
+  {
+    "name": "Talkish kaleve",
+    "url": "https://www.tasteatlas.com/talkish-kaleve",
+    "ranking": "60",
+    "position": 60
+  },
+  {
+    "name": "Sugudai",
+    "url": "https://www.tasteatlas.com/sugudai",
+    "ranking": "61",
+    "position": 61
+  }
+]
